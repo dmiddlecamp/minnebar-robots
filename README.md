@@ -5,11 +5,11 @@ Thank you to our volunteers and the audience who helped guide and debug the prog
 Bill of Materials For the Robot
 ---
 
-| Thing           | Where           | Price  |
-| -------------   |:-------------:| -----:|
-| Particle Photon | https://www.adafruit.com/products/2721 | $19 |
-| PhoBot - Robotics Shield for Photon | https://www.adafruit.com/products/2653 | $25 |
-| Robot Platform | https://www.adafruit.com/products/3244 | $25 |
+| Thing           | Where           | Tutorial           | Price  |
+| -------------   |:-------------:|:-------------:| -----:|
+| Particle Photon | https://www.adafruit.com/products/2721 | https://docs.particle.io/guide/getting-started/intro/photon/ | $19 |
+| PhoBot - Robotics Shield for Photon | https://www.adafruit.com/products/2653 | https://github.com/simonmonk/PhoBot | $25 |
+| Robot Platform | https://www.adafruit.com/products/3244 | https://learn.adafruit.com/tri-layer-mini-round-robot-chassis-kit | $25 |
 
 
 
